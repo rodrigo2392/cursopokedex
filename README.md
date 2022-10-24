@@ -30,8 +30,6 @@ Librerías utilizadas en este proyecto:
 
 - **INICIO** - Lista con funcionalidad "infinity scroll" que nos permite ver todos los pokémon, así como buscar uno en particular.
 
-- **DETALLES** - Muestra los detalles del pokémon selccionado, como su peso, tamaño y lista de habilidades.
-
 - **FAVORITOS** - Lista de pokémon agregados como favoritos y guardados localmente en el dispositivo.
 
 - **ACERCA DE** - Los detalles del desarrollar así como agradecimientos al sitio https://pokeapi.co/
